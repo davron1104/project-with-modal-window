@@ -1,0 +1,5 @@
+@media all and (max-width: 767px) {
+    .modal-item__descr {
+        text-align: center;
+    }
+}
